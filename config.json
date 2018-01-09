@@ -1,0 +1,18 @@
+{
+  "ArtikCloud": {
+    "AuthToken": "1351078441f746959fcef12d7d68db44",
+    "userID": "020e6972e45848869902ff0abc3b640d",
+    "deviceTypeID": "dt72bd8c3b9ab44d69b27d3592852526f8",
+	"ARTIKCLOUD_WEBSOCKETS_URL" : "wss://api.artik.cloud/v1.1/websocket?ack=true",
+	"ARTIKCLOUD_WEBSOCKETS_DOMAIN" : "api.artik.cloud",
+	"ARTIKCLOUD_WEBSOCKETS_PORT" : 443,
+	"ARTIK_MQTT_URL" : "api.artik.cloud",
+	"ARTIK_MQTT_PORT" : 8883
+  },
+  "Bluetooth": {
+    "Dual_Dimmer_Service_UUID" : "c94fb43c-556b-4d4b-8c25-fbef77abcc96",
+    "Brightness_Level_UUID" : "34596dce-6442-4903-a78e-81635ca92f00",
+    "Dual_Dimmer_Command_buffer_UUID" : "250bfc4c-9fed-4845-a24e-2642f5785282",
+    "Color_Temperature_Level_UUID" : "ef35f9ae-647f-4e29-bb25-f6a49635e095"
+  }
+}
